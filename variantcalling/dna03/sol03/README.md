@@ -1,0 +1,11 @@
+## The Case of Young Ethan: A Story of Respiratory Distress and Infertility
+
+Ethan, a bright-eyed 12-year-old, presented to the pediatric pulmonology clinic with a persistent, wet cough that had plagued him since early childhood. His parents, Sarah and David, described countless visits to the pediatrician, numerous courses of antibiotics, and even a short stint on inhaled corticosteroids, all with only temporary relief. Ethan was often sidelined from playing sports with his friends, struggling to keep up due to shortness of breath and frequent respiratory infections.
+
+Ethan’s history revealed that he had suffered from recurrent sinusitis and otitis media as a young child. Pulmonary function tests showed reduced forced expiratory volume in one second (FEV1) and forced vital capacity (FVC), suggestive of obstructive lung disease. A chest CT scan revealed mild bronchiectasis in the lower lobes of both lungs. The pulmonary team suspected cystic fibrosis initially, but sweat chloride tests were repeatedly normal.
+
+Sarah and David were concerned, but they reported no similar health issues in either of their families. Sarah has had prior secondary infertility and both have been evaluated for potential causes. Further exploration of the family history revealed a curious detail: David's younger brother was undergoing evaluation for male infertility at a nearby clinic, with the initial semen analysis revealing immotile sperm. David himself had not yet been evaluated for fertility.
+
+Physical examination of Ethan revealed normal vital signs, although his respiratory rate was slightly elevated. Auscultation of his lungs revealed diffuse crackles and wheezes. He had no nasal polyps, and his fingers and toes showed no signs of clubbing.
+
+Given the persistent respiratory symptoms, bronchiectasis, normal sweat chloride test, family history of male infertility, the medical team ordered advanced genetic testing. While awaiting the results, they initiated a more aggressive airway clearance regimen for Ethan, including regular chest physiotherapy and mucolytic medications. Further, the possibility of a shared genetic defect, affecting both Ethan and David's brother, was explored in their genetic counseling sessions. The clinical team began to consider rare genetic causes affecting cilia structure and function as a possible diagnosis.
